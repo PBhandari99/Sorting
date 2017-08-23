@@ -12,4 +12,3 @@ def bubble_sort(unsorted_array):
             return unsorted_array
         swapped = False
 
-print (bubble_sort([3,2,7,5,8,1,4,9]))
